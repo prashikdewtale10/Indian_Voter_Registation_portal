@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+  margin: 00;
+  padding: 0;
+  font-family: 'Times New Roman', Times, serif;
+}
+.head{
+  
+  background-color:rgba(32, 32, 32, 0.815);
+  border-radius: 3px;
+
+}
+.head .in_head{
+   margin: 0px 10px;
+  display:flex;
+  justify-content: space-between;
+}
+
+.head .head_text{
+  color: #fff;
+  font-size: 35px;
+}
+.head_img{
+	margin: 10px 0px;
+	border-radius: 3px;
+}
+
+.head p{
+color: aliceblue;   
+/* font-family: 'Amita', cursive; */
+  float: right ; 
+  font-size: 40px;line-height: 60px;
+}
+.head    .span{margin-top: 7px;
+float: right;line-height: 43px;
+color: aliceblue;font-size: 35px;
+font-family: 'Amita', cursive;
+/* 
+
+
+*/
+}
+/* .g{
+  float: right;
+}
+.gi{
+ 
+  margin-top: 1%;
+  margin-right: 5px;
+} */
+#country{
+background-color: #555;
+color: #fff;
+text-align: center;
+padding: 2px 5px;
+font-weight: lighter;
+border-radius: 3px;
+}
+.bord{
+margin: 3px 5px;
+border: 1px solid whitesmoke;
+border-radius: 5px;
+padding-top: 10px;
+
+}
+
+.my .testbutton{
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-top: 20px;
+  background-color: grey;
+  padding: 2px 17px;
+  border-radius: 3px;
+  color: #fff;
+  border:1px solid royalblue;
+}
+.my .testbutton:hover{
+  background-color: royalblue;
+}
+.my .bt{
+  float: right;
+  margin-right: 30px;
+  margin-top: 20px;
+}
+.p{
+	margin-left: 85px;
+	font-size: 24px;
+	color:#D54C4C;
+	font-weight: bold;
+}
+.cont{
+  background-color: rgb(238, 238, 238) !important;
+  border: 1px solid grey;
+  border-radius: 4px;
+
+}
+.bg1{
+  background-color: rgb(199, 197, 197);
+  margin-top: 5px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 5px; 
+}
+.text{
+  padding: 10px 2px;
+  margin-left: 15px;
+}
+.text2{
+  margin:15px;
+}
+
+.text1{
+
+  margin: 20px 10px;
+}
+.bg2{
+  background-color:rgb(224, 171, 157);
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 3px;
+  margin-bottom: 30px;
+
+}
+.cont{
+  margin: 5px 65px;
+  background:grey;
+}
+.pad_area{
+  margin: 15px 80px;
+
+}
+span{
+  color: red;
+}
+.line{
+  line-height: 200%;
+  margin-bottom: 10px;
+}
+a{
+  float: right;
+  margin-right: 10px;
+  text-decoration: none;
+  color: #007bff;
+}
+a:hover{
+	text-decoration: underline;
+}
+hr{
+  margin-bottom: 30px;
+}
+input{
+  text-align: center;
+  border-radius: 3px;
+  outline: none;
+  border: 1px solid grey;
+}
+select{
+  background: grey;
+  color: #fff;
+  border-radius: 4px;
+  padding: 2px;
+  outline: none;
+}
+.btn_box{
+  text-align: center;
+  margin-bottom: 20px;
+}
+.btn1{
+  padding: 1px 15px;
+  background-color: grey;
+  margin-left: 20px;
+
+}
+.far{
+  font-size: 15px;
+  
+}
+.btn_box button{
+  background: green;
+  padding: 4px 7px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  color: white;
+  outline: none;
+  border: none;
+}
+.btn_box button:hover{
+  opacity: 0.8;
+}
+.footer{
+	text-align: center;
+	color: white;
+	background-color: black;
+	border-radius: 3px;
+}
+.foot_text{
+	padding: 20px;
+
+}
